@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 8be853ce5abf94fd9b672b18e0c9ba96
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Mystical Chain - Youkai Spikey Ball_0
+    21300002: PC Computer - Mystical Chain - Youkai Spikey Ball_1
+    21300004: PC Computer - Mystical Chain - Youkai Spikey Ball_2
+    21300006: PC Computer - Mystical Chain - Youkai Spikey Ball_3
+    21300008: PC Computer - Mystical Chain - Youkai Spikey Ball_4
+    21300010: PC Computer - Mystical Chain - Youkai Spikey Ball_5
+    21300012: PC Computer - Mystical Chain - Youkai Spikey Ball_6
+    21300014: PC Computer - Mystical Chain - Youkai Spikey Ball_7
+    21300016: PC Computer - Mystical Chain - Youkai Spikey Ball_8
+    21300018: PC Computer - Mystical Chain - Youkai Spikey Ball_9
+    21300020: PC Computer - Mystical Chain - Youkai Spikey Ball_10
+    21300022: PC Computer - Mystical Chain - Youkai Spikey Ball_11
+    21300024: PC Computer - Mystical Chain - Youkai Spikey Ball_12
+    21300026: PC Computer - Mystical Chain - Youkai Spikey Ball_13
+    21300028: PC Computer - Mystical Chain - Youkai Spikey Ball_14
+    21300030: PC Computer - Mystical Chain - Youkai Spikey Ball_15
+    21300032: PC Computer - Mystical Chain - Youkai Spikey Ball_16
+    21300034: PC Computer - Mystical Chain - Youkai Spikey Ball_17
+    21300036: PC Computer - Mystical Chain - Youkai Spikey Ball_18
+    21300038: PC Computer - Mystical Chain - Youkai Spikey Ball_19
+    21300040: PC Computer - Mystical Chain - Youkai Spikey Ball_20
+    21300042: PC Computer - Mystical Chain - Youkai Spikey Ball_21
+    21300044: PC Computer - Mystical Chain - Youkai Spikey Ball_22
+    21300046: PC Computer - Mystical Chain - Youkai Spikey Ball_23
+    21300048: PC Computer - Mystical Chain - Youkai Spikey Ball_24
+    21300050: PC Computer - Mystical Chain - Youkai Spikey Ball_25
+    21300052: PC Computer - Mystical Chain - Youkai Spikey Ball_26
+    21300054: PC Computer - Mystical Chain - Youkai Spikey Ball_27
+    21300056: PC Computer - Mystical Chain - Youkai Spikey Ball_28
+    21300058: PC Computer - Mystical Chain - Youkai Spikey Ball_29
+    21300060: PC Computer - Mystical Chain - Youkai Spikey Ball_30
+    21300062: PC Computer - Mystical Chain - Youkai Spikey Ball_31
+    21300064: PC Computer - Mystical Chain - Youkai Spikey Ball_32
+    21300066: PC Computer - Mystical Chain - Youkai Spikey Ball_33
+    21300068: PC Computer - Mystical Chain - Youkai Spikey Ball_34
+    21300070: PC Computer - Mystical Chain - Youkai Spikey Ball_35
+    21300072: PC Computer - Mystical Chain - Youkai Spikey Ball_36
+    21300074: PC Computer - Mystical Chain - Youkai Spikey Ball_37
+    21300076: PC Computer - Mystical Chain - Youkai Spikey Ball_38
+    21300078: PC Computer - Mystical Chain - Youkai Spikey Ball_39
+    21300080: PC Computer - Mystical Chain - Youkai Spikey Ball_40
+    21300082: PC Computer - Mystical Chain - Youkai Spikey Ball_41
+    21300084: PC Computer - Mystical Chain - Youkai Spikey Ball_42
+    21300086: PC Computer - Mystical Chain - Youkai Spikey Ball_43
+    21300088: PC Computer - Mystical Chain - Youkai Spikey Ball_44
+    21300090: PC Computer - Mystical Chain - Youkai Spikey Ball_45
+    21300092: PC Computer - Mystical Chain - Youkai Spikey Ball_46
+    21300094: PC Computer - Mystical Chain - Youkai Spikey Ball_47
+    21300096: PC Computer - Mystical Chain - Youkai Spikey Ball_48
+    21300098: PC Computer - Mystical Chain - Youkai Spikey Ball_49
+    21300100: PC Computer - Mystical Chain - Youkai Spikey Ball_50
+    21300102: PC Computer - Mystical Chain - Youkai Spikey Ball_51
+    21300104: PC Computer - Mystical Chain - Youkai Spikey Ball_52
+    21300106: PC Computer - Mystical Chain - Youkai Spikey Ball_53
+    21300108: PC Computer - Mystical Chain - Youkai Spikey Ball_54
+    21300110: PC Computer - Mystical Chain - Youkai Spikey Ball_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 486
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 505
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 441
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 377
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 313
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 185
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 121
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC Computer - Mystical Chain - Youkai Spikey Ball_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
