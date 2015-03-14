@@ -25,13 +25,12 @@ function Update () {
 
 function SpawnPlayer(playerNum : int) {
 	if(playerNum == 1) {
-		var player : GameObject ;
-		player = Instantiate(playerPrefab, spawn1.position, Quaternion.identity);
-		player.GetComponent(CharControl).PlayerNum = playerNum;
-		player.GetComponent(CharControl).findHealth();
-		player.GetComponentInChildren(ParticleSystem).startColor = Color.red;
-		player.GetComponent(SpriteRenderer).color = Color.red;
-		return player;
+		var player1 : GameObject = Instantiate(playerPrefab, spawn1.position, Quaternion.identity);
+		player1.GetComponent(CharControl).PlayerNum = playerNum;
+		player1.GetComponent(CharControl).findHealth();
+		player1.GetComponentInChildren(ParticleSystem).startColor = Color.red;
+		player1.GetComponent(SpriteRenderer).color = Color.red;
+		return player1;
 	} else if (playerNum == 2) {
 		var player2 : GameObject = Instantiate(playerPrefab, spawn2.position, Quaternion.identity);
 		player2.GetComponent(CharControl).PlayerNum = playerNum;
