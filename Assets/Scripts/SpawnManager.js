@@ -11,7 +11,7 @@ public var p2StockCounter : Text;
 public var respawnTimer : float = 2f;
 public var deathAud : AudioClip;
 
-function Awake () {
+function Start () {
 	p1Stocks = 4;
 	p2Stocks = 4;
 	SpawnPlayer(1);
@@ -28,14 +28,12 @@ function SpawnPlayer(playerNum : int) {
 		var player : GameObject ;
 		player = Instantiate(playerPrefab, spawn1.position, Quaternion.identity);
 		player.GetComponent(CharControl).PlayerNum = playerNum;
-		player.GetComponent(CharControl).findHealth();
 		player.GetComponentInChildren(ParticleSystem).startColor = Color.red;
 		player.GetComponent(SpriteRenderer).color = Color.red;
 		return player;
 	} else if (playerNum == 2) {
 		var player2 : GameObject = Instantiate(playerPrefab, spawn2.position, Quaternion.identity);
 		player2.GetComponent(CharControl).PlayerNum = playerNum;
-		player2.GetComponent(CharControl).findHealth();	
 		player2.GetComponentInChildren(ParticleSystem).startColor = Color.cyan;
 		player2.GetComponent(SpriteRenderer).color = Color.cyan;
 		return player2;

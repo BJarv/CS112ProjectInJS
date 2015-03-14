@@ -63,23 +63,17 @@ public var hitAuds : AudioClip[];
 
 
 function Start () {
+	WaitForEndOfFrame();
 	if(PlayerNum == 0) {
 		Debug.LogError("Player Number not set in inspector, set and retry");
 	}
 	spawnMan = GameObject.Find("Code").GetComponent(SpawnManager);
-	playerStats = gameObject.GetComponent(PlayerStats);
+	playerStats = GetComponent(PlayerStats);
 	dashParts = transform.Find("dashParticles").gameObject.GetComponent(ParticleSystem);
 	groundCheck = transform.Find("groundCheck");
+	
 	assignPlayerControls();
 
-}
-
-public function findHealth() {
-	if(PlayerNum == 1) {
-		playerStats.healthSlider = GameObject.Find("Canvas/Player1Health/Slider").gameObject.GetComponent(Slider);
-	} else if (PlayerNum == 2) {
-		playerStats.healthSlider = GameObject.Find("Canvas/Player2Health/Slider").gameObject.GetComponent(Slider);
-	}
 }
 
 function FixedUpdate() {
