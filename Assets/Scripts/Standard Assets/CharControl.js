@@ -41,10 +41,10 @@ public var horizDirection : int = 1;
 var moveH : float;
 
 //control bools
-public var colliding : bool = false;
-public var dashLock : bool = false;
-public var isDashing : bool = false;
-public var singleDamageDealt : bool = false;
+public var colliding = false;
+public var dashLock = false;
+public var isDashing = false;
+public var singleDamageDealt = false;
 
 //cooldown timers
 public var lockTimeStamp : float = 0f;
@@ -161,7 +161,7 @@ function DashAttack() {
 			xTotal = -dashX;
 			lockTimeStamp = Time.time + dashCD;
 			dashTimeStamp = Time.time + .4f;
-			dashlock = true;
+			dashLock = true;
 			isDashing = true;
 		}
 	}
@@ -215,7 +215,7 @@ function Flip(moveH : float) {
 	}
 }
 
-public function isGrounded() : bool {
+public function isGrounded() {
 	return Physics2D.Raycast(groundCheck.position, -Vector2.up, raycastLength, whatIsGround);
 }
 
